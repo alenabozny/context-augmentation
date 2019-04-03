@@ -1,0 +1,901 @@
+1	1	choroba	[choroba]	92.50970873786409	1	928	598	206
+2	2	dziecko	[dziecko]	85.5390977443609	1	858	347	133
+3	3	badanie	[badanie]	85.07397260273973	1	853	495	219
+4	4	układ odpornościowy	[układ odpornościowy]	84.29166666666667	2	86	41	24
+5	5	badanie prenatalny	[badanie prenatalne]	81.95	2	84	41	20
+6	6	stan zapalny	[stan zapalny]	74.6896551724138	2	76	38	29
+7	7	witamina	[witamina]	74.2818181818182	1	746	420	132
+8	8	witamina D	[witamina D]	73.0	2	76	51	17
+9	9	organizm	[organizm]	69.16635514018692	1	694	250	107
+10	10	duży ilość	[większa ilość]	67.65853658536585	2	69	55	41
+11	11	zawał serce	[zawał serca]	66.4	2	68	24	15
+12	12	kwas tłuszczowy	[kwas tłuszczowy]	57.95238095238095	2	60	43	21
+13	13	zespół Down	[zespół Downa]	56.142857142857146	2	58	13	7
+14	14	lek	[lek]	50.208108108108114	1	504	284	148
+15	15	skutek uboczny	[skutek uboczny]	49.8	2	51	30	25
+16	16	osoba	[osoba]	49.55342465753425	1	498	180	73
+17	17	olej kokosowy	[olej kokosowy]	47.8	2	49	6	5
+18	18	klatka piersiowy	[klatka piersiowa]	46.8	2	48	12	10
+19	19	przewód pokarmowy	[przewód pokarmowy]	46.5	2	48	18	12
+20	20	wirusowy zapalenie wątroba typ	[wirusowe zapalenie wątroby typu]	46.0	4	24	1	1
+21	21	poziom cholesterol	[poziom cholesterolu]	45.54545454545455	2	47	16	11
+22	22	komórka nowotworowy	[komórka nowotworowa]	45.53846153846154	2	47	19	13
+23	23	niedobór witamina	[niedobór witamin]	43.75	2	45	10	8
+24	24	lekarz	[lekarz]	43.35571428571429	1	435	101	70
+25	25	wysoki poziom	[wysoki poziom]	42.93333333333333	2	45	31	15
+26	26	szczepionka	[szczepionka]	42.82105263157895	1	430	170	95
+27	27	choroba zakaźny	[choroba zakaźna]	42.46153846153846	2	44	20	13
+28	28	krew	[krew]	42.40588235294118	1	427	200	68
+29	29	poziom	[poziom]	42.026153846153846	1	423	356	130
+30	30	naczynie krwionośny	[naczynie krwionośne]	41.6875	2	43	21	16
+31	31	komórka	[komórka]	40.66764705882353	1	409	316	136
+32	32	tydzień ciąża	[tydzień ciąży]	39.666666666666664	2	41	8	6
+33	33	ryzyko	[ryzyko]	39.239849624060156	1	395	346	133
+34	34	tkanka tłuszczowy	[tkanka tłuszczowa]	38.84	2	40	29	25
+35	35	objaw	[objaw]	38.2064	1	384	242	125
+36	36	stan zdrowie	[stan zdrowia]	38.07142857142857	2	40	27	14
+37	37	masa ciało	[masa ciała]	37.375	2	39	26	16
+38	38	życie	[życie]	37.16206896551724	1	374	138	58
+39	39	wirusowy zapalenie wątroba	[wirusowe zapalenie wątroby]	36.85037814176688	3	30	27	4
+40	40	ryzyko wystąpić	[ryzyko wystąpienia]	36.333333333333336	2	38	35	21
+41	41	woda	[woda]	35.81521739130435	1	360	170	92
+42	42	pacjent	[pacjent]	35.640845070422536	1	358	113	71
+43	43	czas	[czas]	35.50972222222222	1	357	137	72
+44	44	układ krążenie	[układ krążenia]	35.5	2	39	28	8
+45	45	dieta	[dieta]	34.89883720930233	1	351	173	86
+46	46	antybiotyk	[antybiotyk]	34.62463768115942	1	348	121	69
+47	47	wirus	[wirus]	34.550000000000004	1	348	155	62
+48	48	szczepienie	[szczepienie]	34.4	1	346	166	83
+49	49	układ nerwowy	[układ nerwowy]	33.6	2	36	24	10
+50	50	składnik odżywczy	[składnik odżywczy]	33.4375	2	35	25	16
+51	51	rak	[rak]	32.90821917808219	1	332	213	73
+52	52	człowiek	[człowiek]	32.790140845070425	1	330	149	71
+53	53	zdrowie	[zdrowie]	32.72898550724638	1	330	187	69
+54	54	błona śluzowy	[błona śluzowa]	32.6	2	34	21	15
+55	55	kwas foliowy	[kwas foliowy]	31.6	2	33	7	5
+56	56	kobieta	[kobieta]	31.52553191489362	1	317	82	47
+57	57	układ	[układ]	31.282105263157895	1	316	302	95
+58	58	poziom cukier	[poziom cukru]	31.0	2	32	8	8
+59	59	witamina C	[witamina C]	30.857142857142858	2	32	8	7
+60	60	ilość	[ilość]	30.83225806451613	1	310	260	155
+61	61	stan	[stan]	30.785981308411216	1	310	229	107
+62	62	choroba nowotworowy	[choroba nowotworowa]	30.77777777777778	2	32	11	9
+63	63	flora bakteryjny	[flora bakteryjna]	30.333333333333332	2	32	25	15
+64	64	system odpornościowy	[system odpornościowy]	30.272727272727273	2	32	19	11
+65	65	leczenie	[leczenie]	30.08484848484849	1	303	213	99
+66	66	ból głowa	[ból głowy]	30.0	2	31	3	3
+67	67	wirusowy zapalenie	[wirusowe zapalenie]	29.75	2	34	34	8
+68	68	przypadek	[przypadek]	29.318947368421057	1	295	172	95
+69	69	ciąża	[ciąża]	28.930612244897958	1	292	132	49
+70	70	komórka rakowy	[komórka rakowa]	28.77777777777778	2	30	11	9
+71	71	wolny rodnik	[wolny rodnik]	28.666666666666668	2	30	16	12
+72	72	cesarski cięcie	[cesarskie cięcie]	28.4	2	30	8	5
+73	73	układ immunologiczny	[układ immunologiczny]	27.933333333333334	2	29	16	15
+74	74	działanie niepożądany	[działanie niepożądane]	27.916666666666668	2	29	13	12
+75	75	mały dziecko	[małe dziecko]	27.857142857142858	2	29	8	7
+76	76	witamina c	[witamina C]	27.58823529411765	2	29	24	17
+77	77	grypa	[grypa]	27.455000000000002	1	277	49	20
+78	78	zapalenie	[zapalenie]	27.191764705882356	1	275	262	85
+79	79	wada genetyczny	[wada genetyczna]	26.875	2	28	9	8
+80	80	mięsień sercowy	[mięsień sercowy]	26.8	2	29	22	10
+81	81	choroba układ krążenie	[choroba układu krążenia]	26.627370012115428	3	18	6	5
+82	82	jelito gruby	[jelito grube]	26.6	2	31	22	5
+83	83	cholesterol	[cholesterol]	26.571428571428573	1	269	161	49
+84	84	niski poziom	[niższy poziom]	26.125	2	29	23	8
+85	85	ciśnienie krew	[ciśnienie krwi]	26.0	2	28	12	6
+86	85	wynik badanie	[wynik badań]	26.0	2	27	9	9
+87	86	sposób	[sposób]	25.919780219780222	1	261	164	91
+88	87	ocet jabłkowy	[ocet jabłkowy]	25.9	2	27	11	10
+89	88	aktywność fizyczny	[aktywność fizyczna]	25.857142857142858	2	27	8	7
+90	89	ból	[ból]	25.841538461538462	1	261	168	65
+91	90	bakteria	[bakteria]	25.361111111111114	1	256	129	54
+92	91	choroba serce	[choroba serca]	25.166666666666668	2	27	11	6
+93	92	badanie naukowy	[badanie naukowe]	25.0	2	26	12	12
+94	92	zapalenie płuco	[zapalenie płuc]	25.0	2	26	5	5
+95	93	substancja	[substancja]	24.819318181818183	1	250	159	88
+96	94	układ pokarmowy	[układ pokarmowy]	24.0	2	25	10	10
+97	95	kwas	[kwas]	23.807462686567163	1	241	196	67
+98	96	niedobór witamina D	[niedobór witaminy D]	23.774437510817343	3	16	1	1
+99	97	metoda leczenie	[metoda leczenia]	23.727272727272727	2	25	14	11
+100	98	jama ustny	[jama ustna]	23.454545454545453	2	25	17	11
+101	99	terapia	[terapia]	23.319736842105264	1	235	137	76
+102	100	dawka	[dawka]	23.205747126436783	1	234	169	87
+103	101	działanie	[działanie]	23.04409448818898	1	232	198	127
+104	102	metoda	[metoda]	23.025274725274727	1	232	159	91
+105	103	szczepionka skojarzyć	[szczepionka skojarzona]	23.0	2	24	11	11
+106	104	poród	[poród]	22.78548387096774	1	230	133	62
+107	105	%	[%]	22.59814814814815	1	228	109	54
+108	106	proces	[proces]	22.45619834710744	1	226	174	121
+109	107	serce	[serce]	22.441176470588236	1	230	190	34
+110	108	rak jajnik	[rak jajników]	22.375	2	24	13	8
+111	109	światowy organizacja zdrowie	[światowa organizacja Zdrowia]	22.18947501009619	3	15	1	1
+112	109	hanowerski centrum hipertermia	[hanowerskie centrum Hipertermii]	22.18947501009619	3	14	0	0
+113	110	organizm człowiek	[organizm człowieka]	22.0	2	23	2	2
+114	111	tłuszcz	[tłuszcz]	21.93714285714286	1	221	114	70
+115	112	firma farmaceutyczny	[firma farmaceutyczna]	21.77777777777778	2	23	11	9
+116	113	badanie kliniczny	[badanie kliniczne]	21.0	2	22	5	5
+117	114	rak jelito gruby	[rak jelita grubego]	20.60451250937503	3	15	8	4
+118	114	wysoki poziom cholesterol	[wysoki poziom cholesterolu]	20.60451250937503	3	14	1	1
+119	115	styl życie	[styl życia]	20.5	2	22	9	6
+120	116	skóra	[skóra]	20.05217391304348	1	202	102	69
+121	117	pierwszy objaw	[pierwszy objaw]	20.0	2	22	14	7
+122	117	szyjka macica	[szyjka macicy]	20.0	2	22	14	7
+123	117	długi czas	[dłuższy czas]	20.0	2	20	0	0
+124	118	problem	[problem]	19.942592592592593	1	201	85	54
+125	119	układ oddechowy	[układ oddechowy]	19.833333333333332	2	22	13	6
+126	120	grupa	[grupa]	19.803225806451614	1	200	122	62
+127	121	duży dawka	[duża dawka]	19.727272727272727	2	21	14	11
+128	122	ciało	[ciało]	19.20731707317073	1	195	120	41
+129	123	zakażenie	[zakażenie]	19.203333333333333	1	194	118	60
+130	124	węzeł chłonny	[węzeł chłonny]	19.166666666666668	2	22	17	6
+131	125	zawał	[zawał]	19.024489795918367	1	193	135	49
+132	126	odpowiedni ilość	[odpowiednia ilość]	19.0	2	20	11	11
+133	126	Stany Zjednoczony	[Stany Zjednoczonych]	19.0	2	20	2	2
+134	127	kwas askorbinowy	[kwas askorbinowy]	18.88888888888889	2	20	10	9
+135	128	wynik	[wynik]	18.835211267605636	1	190	117	71
+136	129	C	[C]	18.78	1	192	42	10
+137	130	nienasycony kwas tłuszczowy	[nienasycony kwas tłuszczowy]	18.702557508509646	3	13	6	5
+138	131	typ	[typ]	18.685454545454544	1	189	118	55
+139	132	związek	[związek]	18.627868852459017	1	188	105	61
+140	133	częsty przyczyna	[najczęstsza przyczyna]	18.53846153846154	2	20	19	13
+141	134	rak pierś	[rak piersi]	18.5	2	20	6	4
+142	135	czerniak złośliwy	[czerniak złośliwy]	18.428571428571427	2	20	11	7
+143	136	przyczyna	[przyczyna]	18.35	1	185	120	80
+144	137	flora jelitowy	[flora jelitowa]	18.3	2	20	17	10
+145	138	produkt	[produkt]	18.22676056338028	1	184	123	71
+146	139	domowy sposób	[domowy sposób]	18.0	2	19	3	3
+147	139	wirus grypa	[wirus grypy]	18.0	2	19	2	2
+148	140	zachłystowy zapalenie płuco	[zachłystowe zapalenie płuc]	17.83082813311301	3	13	7	4
+149	141	tkanka łączny	[tkanka łączna]	17.666666666666668	2	19	16	12
+150	142	medycyna	[medycyna]	17.652631578947368	1	179	141	57
+151	143	zmiana	[zmiana]	17.557303370786517	1	177	127	89
+152	144	B	[B]	17.463636363636365	1	181	70	11
+153	145	wątroba	[wątroba]	17.290000000000003	1	176	93	30
+154	146	składnik	[składnik]	17.211688311688313	1	174	145	77
+155	147	leczyć	[leczenie]	17.141428571428573	1	173	111	70
+156	148	czynnik	[czynnik]	17.13125	1	173	108	64
+157	149	wiek	[wiek]	17.07837837837838	1	173	82	37
+158	150	siemię lniany	[siemię lniane]	17.0	2	19	8	4
+159	150	B 6	[B 6]	17.0	2	22	5	1
+160	151	zdrowy dziecko	[zdrowe dziecko]	16.857142857142858	2	18	8	7
+161	152	test	[test]	16.818	1	170	91	50
+162	153	metoda leczyć	[metoda leczenia]	16.77777777777778	2	18	11	9
+163	154	składnik pokarmowy	[składnik pokarmowy]	16.727272727272727	2	18	14	11
+164	155	cukier	[cukier]	16.725	1	170	110	40
+165	156	stosować	[stosowanie]	16.623880597014928	1	168	118	67
+166	157	infekcja	[infekcja]	16.506122448979593	1	167	95	49
+167	158	D	[D]	16.380000000000003	1	182	91	5
+168	159	główny przyczyna	[główna przyczyna]	16.375	2	18	13	8
+169	160	tkanka	[tkanka]	16.34516129032258	1	165	144	93
+170	161	większość	[większość]	16.314285714285713	1	165	117	63
+171	162	przemiana materia	[przemiana materii]	16.22222222222222	2	18	16	9
+172	163	płyn owodniowy	[płyn owodniowy]	16.166666666666668	2	18	11	6
+173	164	wpływ	[wpływ]	16.077551020408162	1	163	109	49
+174	165	lek przeciwbólowy	[lek przeciwbólowy]	16.0	2	17	5	5
+175	165	osoba stary	[osoba starsza]	16.0	2	16	0	0
+176	165	Wielki Brytania	[Wielkiej Brytania]	16.0	2	16	0	0
+177	165	droga oddechowy	[droga oddechowa]	16.0	2	20	16	4
+178	166	niedobór	[niedobór]	15.952830188679247	1	162	131	53
+179	167	narząd płciowy	[narząd płciowy]	15.88888888888889	2	17	10	9
+180	168	białko	[białko]	15.86271186440678	1	160	81	59
+181	169	związek chemiczny	[związek chemiczny]	15.857142857142858	2	17	8	7
+182	170	zespół	[zespół]	15.827659574468086	1	161	128	47
+183	171	zapalenie zatoka	[zapalenie zatok]	15.75	2	17	10	8
+184	172	wysiłek fizyczny	[wysiłek fizyczny]	15.666666666666666	2	17	8	6
+185	173	przyszły mama	[przyszła mama]	15.6	2	17	7	5
+186	174	kontakt seksualny	[kontakt seksualny]	15.5	2	17	6	4
+187	175	rozwój	[rozwój]	15.340740740740742	1	155	129	81
+188	176	jelito	[jelito]	15.127777777777778	1	154	98	36
+189	177	tydzień	[tydzień]	15.095238095238097	1	154	64	21
+190	178	problem zdrowotny	[problem zdrowotny]	15.0	2	16	8	8
+191	178	choroba wieńcowy	[choroba wieńcowa]	15.0	2	16	5	5
+192	178	badanie przeprowadzić	[badanie przeprowadzone]	15.0	2	16	1	1
+193	178	choroba genetyczny	[choroba genetyczna]	15.0	2	16	2	2
+194	178	podeszły wiek	[podeszły wiek]	15.0	2	15	0	0
+195	178	udar mózg	[udar mózgu]	15.0	2	16	1	1
+196	178	zły samopoczucie	[złe samopoczucie]	15.0	2	16	1	1
+197	178	większość przypadek	[większość przypadków]	15.0	2	17	2	1
+198	178	ból brzuch	[ból brzucha]	15.0	2	15	0	0
+199	178	produkt spożywczy	[produkt spożywczy]	15.0	2	16	8	8
+200	178	silny ból	[silny ból]	15.0	2	16	3	3
+201	178	stwardnienie rozsiany	[stwardnienie rozsiane]	15.0	2	15	0	0
+202	178	kuracja antybiotykowy	[kuracja antybiotykowa]	15.0	2	16	4	4
+203	178	podwyższyć ryzyko	[podwyższone ryzyko]	15.0	2	17	16	8
+204	179	efekt	[efekt]	14.866233766233766	1	150	103	77
+205	180	skutek	[skutek]	14.850000000000001	1	150	117	78
+206	181	płód	[płód]	14.619298245614036	1	148	103	57
+207	182	podwyższyć poziom	[podwyższony poziom]	14.5	2	17	10	4
+208	183	HIV	[HIV]	14.407142857142858	1	146	27	14
+209	184	tarczyca bajkalski	[tarczyca bajkalska]	14.333333333333334	2	16	10	6
+210	185	badanie prenatalny nieinwazyjny	[badanie prenatalne nieinwazyjne]	14.264662506490406	3	9	0	0
+211	185	niepożądany odczyn poszczepienny	[niepożądany odczyn poszczepienny]	14.264662506490406	3	10	3	3
+212	186	grupa ryzyko	[grupa ryzyka]	14.0	2	14	0	0
+213	186	system immunologiczny	[system immunologiczny]	14.0	2	15	5	5
+214	186	roślina strączkowy	[roślina strączkowa]	14.0	2	15	3	3
+215	187	efekt uboczny	[efekt uboczny]	13.916666666666666	2	15	13	12
+216	188	blaszka miażdżycowy	[blaszka miażdżycowa]	13.857142857142858	2	15	8	7
+217	189	zwiększyć ryzyko	[zwiększone ryzyko]	13.75	2	15	15	12
+218	190	wysoki stężenie	[wysokie stężenie]	13.666666666666666	2	15	8	6
+219	190	reakcja alergiczny	[reakcja alergiczna]	13.666666666666666	2	16	7	3
+220	191	źródło energia	[źródło energii]	13.625	2	15	11	8
+221	192	duży ryzyko	[większe ryzyko]	13.5	2	15	12	8
+222	192	cukrzyca typ	[cukrzyca typu]	13.5	2	15	9	6
+223	193	wysoki ryzyko	[wyższe ryzyko]	13.375	2	15	13	8
+224	194	zaburzenie	[zaburzenie]	13.245714285714286	1	134	108	70
+225	195	naukowiec	[naukowiec]	13.161538461538463	1	133	36	26
+226	196	koncern farmaceutyczny	[koncern farmaceutyczny]	13.0	2	14	6	6
+227	196	infekcja bakteryjny	[infekcja bakteryjna]	13.0	2	13	0	0
+228	196	osoba zdrowy	[osoba zdrowa]	13.0	2	13	0	0
+229	196	metal ciężki	[metal ciężki]	13.0	2	14	4	4
+230	196	szkodliwy substancja	[szkodliwa substancja]	13.0	2	14	5	5
+231	196	choroba przewlekły	[choroba przewlekła]	13.0	2	14	4	4
+232	196	nosiciel wirus	[nosiciel wirusa]	13.0	2	14	2	2
+233	196	wysoki gorączka	[wysoka gorączka]	13.0	2	13	0	0
+234	197	nowotwór	[nowotwór]	12.922857142857143	1	131	62	35
+235	198	atak serce	[atak serca]	12.8	2	14	6	5
+236	199	mózg	[mózg]	12.747058823529413	1	130	86	34
+237	200	węglowodan	[węglowodan]	12.711538461538462	1	129	49	26
+238	201	reumatoidalny zapalenie staw	[reumatoidalne zapalenie stawów]	12.67970000576925	3	8	0	0
+239	202	choroba alzheimer	[choroba Alzheimera]	12.6	2	14	7	5
+240	203	stężenie	[stężenie]	12.518518518518519	1	127	98	54
+241	204	medycyna niekonwencjonalny	[medycyna niekonwencjonalna]	12.5	2	14	3	2
+242	205	wzrost	[wzrost]	12.324137931034484	1	125	102	58
+243	206	miejsce	[miejsce]	12.171153846153848	1	123	67	52
+244	207	środek	[środek]	12.125	1	123	91	52
+245	208	komórka nerwowy	[komórka nerwowa]	12.0	2	13	6	6
+246	208	zdrowy komórka	[zdrowa komórka]	12.0	2	13	3	3
+247	208	badać krew	[badanie krwi]	12.0	2	13	3	3
+248	208	poziom glukoza	[poziom GLUKOZY]	12.0	2	13	6	6
+249	208	poważny choroba	[poważna choroba]	12.0	2	13	1	1
+250	208	USG genetyczny	[USG genetyczne]	12.0	2	12	0	0
+251	208	B 12	[B 12]	12.0	2	15	6	2
+252	208	proces zapalny	[proces zapalny]	12.0	2	13	4	4
+253	208	duży znaczenie	[większe znaczenie]	12.0	2	12	0	0
+254	208	duży wpływ	[duży wpływ]	12.0	2	12	0	0
+255	208	poród domowy	[poród domowy]	12.0	2	13	4	4
+256	208	zapalenie tarczyca	[zapalenie tarczycy]	12.0	2	13	1	1
+257	208	astma oskrzelowy	[astma oskrzelowa]	12.0	2	13	3	3
+258	208	błona komórkowy	[błona komórkowa]	12.0	2	13	5	5
+259	208	zawrót głowa	[zawrót głowy]	12.0	2	13	1	1
+260	209	hormon	[hormon]	11.820512820512821	1	120	70	39
+261	210	Polska	[Polska]	11.76	1	119	7	5
+262	211	utrata waga	[utrata wagi]	11.75	2	13	5	4
+263	211	wysoki temperatura	[wysoka temperatura]	11.75	2	13	5	4
+264	212	mięsień	[mięsień]	11.702083333333334	1	119	95	48
+265	213	preparat	[preparat]	11.673076923076923	1	118	66	52
+266	214	źródło	[źródło]	11.650943396226417	1	118	79	53
+267	215	ostry zapalenie	[ostre zapalenie]	11.625	2	13	11	8
+268	216	niewielki ilość	[niewielka ilość]	11.571428571428571	2	13	10	7
+269	217	niedotlenienie okołoporodowy	[niedotlenienie okołoporodowe]	11.333333333333334	2	13	5	3
+270	218	olej	[olej]	11.270370370370372	1	116	89	27
+271	219	cukrzyca	[cukrzyca]	11.246666666666668	1	115	38	15
+272	220	insulina	[insulina]	11.22608695652174	1	115	63	23
+273	221	szczepienie obowiązkowy	[szczepienie obowiązkowe]	11.2	2	13	9	5
+274	222	białko jajo kurzy	[białko jaja kurzego]	11.094737505048094	3	8	1	1
+275	223	czynnik ryzyko	[czynnik ryzyka]	11.0	2	12	5	5
+276	223	medycyna naturalny	[medycyna naturalna]	11.0	2	12	3	3
+277	223	interwencja chirurgiczny	[interwencja chirurgiczna]	11.0	2	13	4	2
+278	223	dawka szczepionka	[dawka szczepionki]	11.0	2	13	6	3
+279	223	pamięć woda	[pamięć wody]	11.0	2	11	0	0
+280	223	mały ilość	[mała ilość]	11.0	2	12	8	8
+281	223	ryzyko zakażenie	[ryzyko zakażenia]	11.0	2	12	2	2
+282	223	medycyna holistyczny	[medycyna holistyczna]	11.0	2	12	2	2
+283	223	ból staw	[ból stawów]	11.0	2	11	0	0
+284	223	nowy badanie	[najnowsze badanie]	11.0	2	11	0	0
+285	223	nowy lek	[nowy lek]	11.0	2	12	1	1
+286	223	osoba chory	[osoba chora]	11.0	2	12	1	1
+287	223	przewlekły choroba	[przewlekła choroba]	11.0	2	13	12	6
+288	223	pestka dynia	[pestka dyni]	11.0	2	12	5	5
+289	223	terapia alternatywny	[terapia alternatywna]	11.0	2	12	3	3
+290	223	terapia Gerson	[terapia Gersona]	11.0	2	12	4	4
+291	223	dobry sposób	[najlepszy sposób]	11.0	2	11	0	0
+292	223	wnętrze komórka	[wnętrze komórki]	11.0	2	12	1	1
+293	223	substancja odżywczy	[substancja odżywcza]	11.0	2	12	4	4
+294	224	brak	[brak]	10.947540983606558	1	111	93	61
+295	225	odporność	[odporność]	10.880645161290325	1	111	68	31
+296	226	narodowy instytut	[narodowy instytut]	10.833333333333334	2	13	13	6
+297	227	powikłanie	[powikłanie]	10.790909090909091	1	110	69	33
+298	228	zachłystowy zapalenie	[zachłystowe zapalenie]	10.75	2	14	13	4
+299	229	informacja	[informacja]	10.587179487179489	1	107	44	39
+300	230	osoba zakazić	[osoba zakażona]	10.5	2	12	3	2
+301	231	rodzaj	[rodzaj]	10.354716981132077	1	105	77	53
+302	232	matka	[matka]	10.311428571428571	1	105	66	35
+303	233	naczynie	[naczynie]	10.197777777777778	1	104	91	45
+304	234	reakcja	[reakcja]	10.192105263157895	1	104	79	38
+305	235	glukoza	[glukoza]	10.130434782608695	1	104	62	23
+306	236	śmierć	[śmierć]	10.088000000000001	1	103	53	25
+307	237	zabieg	[zabieg]	10.05	1	102	51	34
+308	238	ośrodkowy układ nerwowy	[ośrodkowy układ nerwowy]	10.038095837900656	3	8	5	3
+309	239	układ hormonalny	[układ hormonalny]	10.0	2	11	1	1
+310	239	pierwszy kolejność	[pierwsza kolejność]	10.0	2	10	0	0
+311	239	związek mineralny	[związek mineralny]	10.0	2	11	5	5
+312	239	droga płciowy	[droga płciowa]	10.0	2	10	0	0
+313	239	ospa wietrzny	[ospa wietrzna]	10.0	2	10	0	0
+314	239	narodowy instytut zdrowie publiczny	[narodowy instytut Zdrowia Publicznego]	10.0	4	5	0	0
+315	239	duży szansa	[większa szansa]	10.0	2	10	0	0
+316	239	niski indeks	[niski indeks]	10.0	2	10	0	0
+317	239	niewydolność nerka	[niewydolność nerek]	10.0	2	12	4	2
+318	239	zapalenie staw	[zapalenie stawów]	10.0	2	11	3	3
+319	239	wodorowęglan sód	[wodorowęglan sodu]	10.0	2	11	5	5
+320	239	objaw choroba	[objaw choroby]	10.0	2	11	1	1
+321	239	mleko matka	[mleko matki]	10.0	2	11	1	1
+322	239	odpowiedni dieta	[odpowiednia dieta]	10.0	2	11	1	1
+323	239	obecność wirus	[obecność wirusa]	10.0	2	11	2	2
+324	239	substancja chemiczny	[substancja chemiczna]	10.0	2	11	5	5
+325	239	jelito cienki	[jelito cienkie]	10.0	2	11	2	2
+326	239	kwas acetylosalicylowy	[kwas acetylosalicylowy]	10.0	2	11	3	3
+327	239	wirus zapalenie wątroba typ	[wirus zapalenia wątroby typu]	10.0	4	5	0	0
+328	239	stosować antybiotyk	[stosowanie antybiotyków]	10.0	2	11	3	3
+329	239	codzienny dieta	[codzienna dieta]	10.0	2	11	1	1
+330	239	dieta bogaty	[dieta bogata]	10.0	2	11	3	3
+331	239	olej roślinny	[olej roślinny]	10.0	2	11	4	4
+332	239	organizm ludzki	[organizm ludzki]	10.0	2	10	0	0
+333	240	wada	[wada]	9.966666666666669	1	102	84	36
+334	241	praca	[praca]	9.94888888888889	1	101	68	45
+335	242	sytuacja	[sytuacja]	9.885185185185186	1	100	31	27
+336	243	narząd	[narząd]	9.832558139534884	1	100	72	43
+337	244	chory dziecko	[chore dziecko]	9.8	2	11	6	5
+338	244	współczesny medycyna	[współczesna medycyna]	9.8	2	11	6	5
+339	244	stres oksydacyjny	[stres oksydacyjny]	9.8	2	11	6	5
+340	245	rodzic	[rodzic]	9.761111111111113	1	99	25	18
+341	246	ciśnienie tętniczy	[ciśnienie tętnicze]	9.714285714285714	2	11	9	7
+342	246	ryzyko wystąpienie	[ryzyko wystąpienia]	9.714285714285714	2	11	9	7
+343	247	sposób odżywianie	[sposób odżywiania]	9.666666666666666	2	11	4	3
+344	247	ryzyko zachorować	[ryzyko zachorowania]	9.666666666666666	2	11	4	3
+345	248	płuco	[płuco]	9.623529411764707	1	101	81	17
+346	249	masa mięśniowy	[masa mięśniowa]	9.6	2	11	7	5
+347	249	skuteczny metoda	[skuteczna metoda]	9.6	2	11	7	5
+348	250	grupa podwyższyć ryzyko	[grupa podwyższonego ryzyka]	9.509775004326938	3	6	0	0
+349	250	podwyższyć poziom cholesterol	[podwyższony poziom cholesterolu]	9.509775004326938	3	8	2	1
+350	250	niski poziom witamina	[niski poziom witaminy]	9.509775004326938	3	6	0	0
+351	250	długi okres czas	[dłuższy okres czasu]	9.509775004326938	3	6	0	0
+352	250	rozporządzenie minister zdrowie	[rozporządzenie Ministra Zdrowia]	9.509775004326938	3	6	0	0
+353	250	czynnik wzrost fibroblast	[czynnik wzrostu fibroblastów]	9.509775004326938	3	7	3	3
+354	250	atopowy zapalenie skóra	[atopowe zapalenie skóry]	9.509775004326938	3	6	0	0
+355	251	działać	[działanie]	9.465853658536586	1	96	55	41
+356	252	alergia	[alergia]	9.413043478260871	1	96	43	23
+357	253	lek homeopatyczny	[lek homeopatyczny]	9.333333333333334	2	11	5	3
+358	254	część	[część]	9.273214285714287	1	94	71	56
+359	255	żywność	[żywność]	9.245161290322581	1	94	48	31
+360	256	skuteczność	[skuteczność]	9.235135135135137	1	94	61	37
+361	257	stężenie glukoza	[stężenie glukozy]	9.2	2	11	9	5
+362	258	liczba	[liczba]	9.158	1	93	71	50
+363	259	wystarczający ilość	[wystarczająca ilość]	9.0	2	10	6	6
+364	259	K 2	[K 2]	9.0	2	12	6	2
+365	259	zaburzenie trawienie	[zaburzenie trawienia]	9.0	2	11	4	2
+366	259	% przypadek	[% przypadków]	9.0	2	10	1	1
+367	259	dobry bakteria	[dobra bakteria]	9.0	2	10	2	2
+368	259	życie dziecko	[życie dziecka]	9.0	2	9	0	0
+369	259	ból mięsień	[ból mięśni]	9.0	2	10	2	2
+370	259	guz nowotworowy	[guz nowotworowy]	9.0	2	10	2	2
+371	259	cukier prosty	[cukier prosty]	9.0	2	10	5	5
+372	259	wypaść pępowina	[wypadnięcie pępowiny]	9.0	2	9	0	0
+373	259	opryszczka wargowy	[opryszczka wargowa]	9.0	2	10	3	3
+374	259	koniec życie	[koniec życia]	9.0	2	10	2	2
+375	259	wywoływać poród	[wywoływanie porodu]	9.0	2	10	4	4
+376	259	duży liczba	[duża liczba]	9.0	2	10	8	8
+377	259	odczyn poszczepienny	[odczyn poszczepienny]	9.0	2	13	12	3
+378	259	produkt mleczny	[produkt mleczny]	9.0	2	10	2	2
+379	259	1 %	[01 %]	9.0	2	10	4	4
+380	259	palić papieros	[palenie papierosów]	9.0	2	9	0	0
+381	259	leczenie holistyczny	[leczenie holistyczne]	9.0	2	9	0	0
+382	259	test potrójny	[test potrójny]	9.0	2	9	0	0
+383	259	badanie inwazyjny	[badanie inwazyjne]	9.0	2	10	2	2
+384	259	ryzyko poronienie	[ryzyko poronienia]	9.0	2	12	3	1
+385	259	bakteria jelitowy	[bakteria jelitowa]	9.0	2	10	3	3
+386	259	ludzki organizm	[ludzki organizm]	9.0	2	10	1	1
+387	259	ważny rola	[ważna rola]	9.0	2	9	0	0
+388	259	poród przedwczesny	[poród przedwczesny]	9.0	2	10	2	2
+389	259	pijawka lekarski	[pijawka lekarska]	9.0	2	10	6	6
+390	260	górny droga oddechowy	[górna droga oddechowa]	8.981454170753219	3	8	7	3
+391	261	produkcja	[produkcja]	8.929268292682927	1	91	70	41
+392	262	macica	[macica]	8.9	1	92	75	25
+393	263	ryzyko rozwój	[ryzyko rozwoju]	8.875	2	10	9	8
+394	264	naturalny terapia	[naturalna terapia]	8.833333333333334	2	10	7	6
+395	265	opryszczka	[opryszczka]	8.81764705882353	1	91	48	17
+396	266	kość	[kość]	8.806451612903226	1	90	60	31
+397	267	witamina K	[witamina K]	8.8	2	10	6	5
+398	268	lek przeciwzakrzepowy	[lek przeciwzakrzepowy]	8.75	2	10	5	4
+399	268	biały krwinka	[biała krwinka]	8.75	2	10	5	4
+400	269	niesteroidowy lek przeciwzapalny	[niesteroidowy lek przeciwzapalny]	8.71729375396636	3	7	3	2
+401	270	droga	[droga]	8.671875	1	89	73	32
+402	271	atopowy zapalenie	[atopowe zapalenie]	8.666666666666668	2	13	13	3
+403	272	pierwszy dawka	[pierwsza dawka]	8.666666666666666	2	11	7	3
+404	272	kuchenka mikrofalowy	[kuchenka mikrofalowa]	8.666666666666666	2	10	4	3
+405	273	świat	[świat]	8.66470588235294	1	88	23	17
+406	274	godzina	[godzina]	8.6	1	87	9	9
+407	275	właściwość	[właściwość]	8.536111111111111	1	87	59	36
+408	276	cel	[cel]	8.49090909090909	1	86	48	44
+409	277	system	[system]	8.488888888888889	1	87	76	36
+410	278	produkt przemiana materia	[produkt przemiany materii]	8.4531333371795	3	7	5	3
+411	279	energia	[energia]	8.425	1	86	63	36
+412	280	tryb życie	[tryb życia]	8.333333333333334	2	10	5	3
+413	281	masa	[masa]	8.307317073170733	1	85	79	41
+414	282	jajo kurzy	[jajo kurze]	8.25	2	11	11	4
+415	283	okres	[okres]	8.14390243902439	1	83	64	41
+416	284	szczególny uwaga	[szczególna uwaga]	8.0	2	8	0	0
+417	284	D 3	[D 3]	8.0	2	9	1	1
+418	284	prątek niegruźliczy	[prątek niegruźliczy]	8.0	2	8	0	0
+419	284	zapalenie mózg	[zapalenie mózgu]	8.0	2	9	2	2
+420	284	infekcja wirusowy	[infekcja wirusowa]	8.0	2	9	2	2
+421	284	choroba neurologiczny	[choroba neurologiczna]	8.0	2	9	2	2
+422	284	szyja dziecko	[szyja dziecka]	8.0	2	8	0	0
+423	284	zły cholesterol	[zły cholesterol]	8.0	2	9	2	2
+424	284	składnik mineralny	[składnik mineralny]	8.0	2	9	3	3
+425	284	kobieta ciężarny	[kobieta ciężarna]	8.0	2	9	2	2
+426	284	ważny funkcja	[ważna funkcja]	8.0	2	9	2	2
+427	284	wirus opryszczka	[wirus opryszczki]	8.0	2	9	2	2
+428	284	duży miara	[duża miara]	8.0	2	8	0	0
+429	284	szczepienie ochronny	[szczepienie ochronne]	8.0	2	12	4	1
+430	284	sezon grypowy	[sezon grypowy]	8.0	2	10	2	1
+431	284	grupa B	[grupa B]	8.0	2	9	1	1
+432	284	wirus HIV	[wirus HIV]	8.0	2	9	2	2
+433	284	zabieg chirurgiczny	[zabieg chirurgiczny]	8.0	2	10	4	2
+434	284	jama brzuszny	[jama brzuszna]	8.0	2	9	1	1
+435	284	komórka tłuszczowy	[komórka tłuszczowa]	8.0	2	9	2	2
+436	284	prąd selektywny	[prąd selektywny]	8.0	2	10	2	1
+437	284	medycyna konwencjonalny	[medycyna konwencjonalna]	8.0	2	9	2	2
+438	284	korzystny wpływ	[korzystny wpływ]	8.0	2	9	1	1
+439	284	zespół Edwards	[zespół Edwardsa]	8.0	2	8	0	0
+440	284	fala elektromagnetyczny	[fala elektromagnetyczna]	8.0	2	9	3	3
+441	284	choroba Alzheimer	[choroba Alzheimera]	8.0	2	9	1	1
+442	284	tłuszcz nasycić	[tłuszcz nasycony]	8.0	2	9	6	6
+443	284	negatywny wpływ	[negatywny wpływ]	8.0	2	9	2	2
+444	284	poziom trójgliceryd	[poziom trójglicerydów]	8.0	2	8	0	0
+445	284	zakażenie bakteryjny	[zakażenie bakteryjne]	8.0	2	9	3	3
+446	284	poziom przeciwciało	[poziom przeciwciał]	8.0	2	9	2	2
+447	284	krzepnąć krew	[krzepnięcie krwi]	8.0	2	9	2	2
+448	284	suplement dieta	[suplement diety]	8.0	2	9	3	3
+449	284	światowy organizacja	[światowa organizacja]	8.0	2	16	16	2
+450	284	wyrób cukierniczy	[wyrób cukierniczy]	8.0	2	8	0	0
+451	285	poważny skutek uboczny	[poważny skutek uboczny]	7.924812503605781	3	5	0	0
+452	285	atopowy zapalenie Skóra	[atopowe zapalenie Skóry]	7.924812503605781	3	7	4	2
+453	285	rak szyjka macica	[rak szyjki macicy]	7.924812503605781	3	6	1	1
+454	285	zapalenie mięsień sercowy	[zapalenie mięśnia sercowego]	7.924812503605781	3	5	0	0
+455	285	niski poziom cholesterol	[niski poziom cholesterolu]	7.924812503605781	3	5	0	0
+456	285	powiększenie węzeł chłonny	[powiększenie węzłów chłonnych]	7.924812503605781	3	6	1	1
+457	285	przewlekły stan zapalny	[przewlekły stan zapalny]	7.924812503605781	3	5	0	0
+458	285	europejski tydzień szczepienie	[europejski tydzień Szczepień]	7.924812503605781	3	5	0	0
+459	285	konwencjonalny metoda leczenie	[konwencjonalna metoda leczenia]	7.924812503605781	3	6	1	1
+460	285	zawał mięsień sercowy	[zawał mięśnia sercowego]	7.924812503605781	3	6	1	1
+461	285	pałeczka kwas mlekowy	[pałeczka kwasu mlekowego]	7.924812503605781	3	6	2	2
+462	285	powiększyć węzeł chłonny	[powiększenie węzłów chłonnych]	7.924812503605781	3	5	0	0
+463	285	grupa wysoki ryzyko	[grupa Wysokiego Ryzyka]	7.924812503605781	3	6	1	1
+464	285	zespół przewlekły zmęczenie	[zespół przewlekłego zmęczenia]	7.924812503605781	3	5	0	0
+465	286	zboże	[zboże]	7.753333333333334	1	79	22	15
+466	287	długi okres	[dłuższy okres]	7.75	2	10	9	4
+467	287	unia europejski	[unia europejska]	7.75	2	9	5	4
+468	287	ciało ketonowy	[ciało ketonowe]	7.75	2	9	5	4
+469	288	przykład	[przykład]	7.745454545454546	1	79	17	11
+470	289	kontakt	[kontakt]	7.713043478260871	1	79	43	23
+471	290	uwaga	[uwaga]	7.7	1	79	18	9
+472	291	łyżka stołowy	[łyżka stołowa]	7.666666666666667	2	9	4	3
+473	291	nietypowy objaw	[nietypowy objaw]	7.666666666666667	2	9	4	3
+474	292	prawidłowy funkcjonowanie	[prawidłowe funkcjonowanie]	7.666666666666666	2	10	7	3
+475	293	stres	[stres]	7.65	1	78	36	24
+476	294	tętnica wieńcowy	[tętnica wieńcowa]	7.6	2	9	7	5
+477	295	tarczyca	[tarczyca]	7.585	1	79	63	20
+478	296	szpital	[szpital]	7.572727272727274	1	77	14	11
+479	297	schorzenie	[schorzenie]	7.572	1	77	32	25
+480	298	forma	[forma]	7.569811320754717	1	77	69	53
+481	299	niedoczynność tarczyca	[niedoczynność tarczycy]	7.5	2	10	5	2
+482	299	medycyna chiński	[medycyna chińska]	7.5	2	9	3	2
+483	300	aminokwas	[aminokwas]	7.483333333333333	1	76	28	24
+484	301	nadmiar	[nadmiar]	7.445714285714286	1	76	54	35
+485	302	naturalny flora bakteryjny	[naturalna flora bakteryjna]	7.396491670032063	3	6	4	3
+486	302	prawidłowy flora jelitowy	[prawidłowa flora jelitowa]	7.396491670032063	3	6	4	3
+487	303	pokarm	[pokarm]	7.381481481481481	1	75	32	27
+488	304	pierś	[pierś]	7.314285714285714	1	76	40	14
+489	305	USG	[USG]	7.311111111111112	1	76	52	18
+490	306	owoc	[owoc]	7.288888888888889	1	75	19	9
+491	307	niedotlenienie	[niedotlenienie]	7.254545454545455	1	75	54	22
+492	308	funkcja	[funkcja]	7.247368421052632	1	74	58	38
+493	309	wystąpić	[wystąpienie]	7.23	1	74	68	40
+494	310	zagrożenie	[zagrożenie]	7.15	1	73	33	22
+495	311	choroba niedokrwienny serce	[choroba niedokrwienna serca]	7.132331253245203	3	6	3	2
+496	312	mięśniak	[mięśniak]	7.070967741935483	1	72	40	31
+497	313	warzywo	[warzywo]	7.0625	1	72	22	16
+498	314	kraj	[kraj]	7.027777777777778	1	72	31	18
+499	315	rzadki przypadek	[rzadki przypadek]	7.0	2	7	0	0
+500	315	substancja toksyczny	[substancja toksyczna]	7.0	2	8	4	4
+501	315	toksyczny substancja	[toksyczna substancja]	7.0	2	8	3	3
+502	315	leczyć rak	[leczenie raka]	7.0	2	8	3	3
+503	315	cholesterol całkowity	[cholesterol całkowity]	7.0	2	9	6	3
+504	315	podawać antybiotyk	[podawany antybiotyk]	7.0	2	8	4	4
+505	315	zawał płuco	[zawał PŁUCA]	7.0	2	8	3	3
+506	315	odpowiedź immunologiczny	[odpowiedź immunologiczna]	7.0	2	8	4	4
+507	315	droga kropelkowy	[droga kropelkowa]	7.0	2	7	0	0
+508	315	materiał genetyczny	[materiał genetyczny]	7.0	2	8	4	4
+509	315	uszkodzenie mózg	[uszkodzenie mózgu]	7.0	2	8	1	1
+510	315	lek farmaceutyczny	[lek farmaceutyczny]	7.0	2	8	3	3
+511	315	zdecydowany większość	[zdecydowana większość]	7.0	2	8	6	6
+512	315	zdrowie publiczny	[zdrowie publiczne]	7.0	2	10	9	3
+513	315	rak prostata	[rak prostaty]	7.0	2	8	1	1
+514	315	pozytywny wpływ	[pozytywny wpływ]	7.0	2	8	1	1
+515	315	przebieg choroba	[przebieg choroby]	7.0	2	8	1	1
+516	315	bakteria chorobotwórczy	[bakteria chorobotwórcza]	7.0	2	8	2	2
+517	315	próba kliniczny	[próba kliniczna]	7.0	2	8	2	2
+518	315	badanie przesiewowy	[badanie przesiewowe]	7.0	2	8	3	3
+519	315	choroba cywilizacyjny	[choroba cywilizacyjna]	7.0	2	8	2	2
+520	315	ratownik medyczny	[ratownik medyczny]	7.0	2	7	0	0
+521	315	poziom insulina	[poziom insuliny]	7.0	2	7	0	0
+522	315	przezierność karkowy	[przezierność karkowa]	7.0	2	8	5	5
+523	315	komplikacja okołoporodowy	[komplikacja okołoporodowa]	7.0	2	7	0	0
+524	315	stan podgorączkowy	[stan podgorączkowy]	7.0	2	7	0	0
+525	315	dzienny spożycie	[dzienne spożycie]	7.0	2	10	9	3
+526	315	chlorek cez	[chlorek CEZU]	7.0	2	8	1	1
+527	315	liczny badanie	[liczne badanie]	7.0	2	7	0	0
+528	315	krzepliwość krew	[krzepliwość krwi]	7.0	2	8	3	3
+529	315	alergia pokarmowy	[alergia pokarmowa]	7.0	2	8	2	2
+530	315	badać USG	[badanie USG]	7.0	2	7	0	0
+531	315	objaw zawał	[objaw zawału]	7.0	2	8	4	4
+532	315	akcja porodowy	[akcja porodowa]	7.0	2	8	4	4
+533	315	choroba płuco	[choroba płuc]	7.0	2	7	0	0
+534	315	wada rozwojowy	[wada rozwojowa]	7.0	2	9	6	3
+535	315	młody człowiek	[młody człowiek]	7.0	2	7	0	0
+536	315	większość osoba	[większość osób]	7.0	2	7	0	0
+537	315	dobry zdrowie	[dobre zdrowie]	7.0	2	7	0	0
+538	315	woda płodowy	[woda płodowa]	7.0	2	8	3	3
+539	315	ogromny wpływ	[ogromny wpływ]	7.0	2	7	0	0
+540	316	wartość	[wartość]	6.954054054054055	1	71	54	37
+541	317	procent	[procent]	6.892	1	70	27	25
+542	318	dolegliwość	[dolegliwość]	6.8812500000000005	1	70	38	32
+543	319	powikłanie pogrypowy	[powikłanie pogrypowe]	6.8	2	8	6	5
+544	320	powód	[powód]	6.793333333333334	1	69	16	15
+545	321	stopień	[stopień]	6.751428571428573	1	69	52	35
+546	322	rola	[rola]	6.729032258064517	1	69	53	31
+547	323	uszkodzenie	[uszkodzenie]	6.7250000000000005	1	69	56	32
+548	324	gorączka	[gorączka]	6.7125	1	70	23	8
+549	325	wzgląd	[wzgląd]	6.7	1	68	6	6
+550	325	fakt	[fakt]	6.7	1	68	14	14
+551	326	dana	[dana]	6.6781250000000005	1	68	39	32
+552	327	olej rycynowy	[olej rycynowy]	6.666666666666667	2	8	4	3
+553	328	wapń	[wapń]	6.661290322580645	1	68	43	31
+554	329	obecność	[obecność]	6.645161290322581	1	68	48	31
+555	330	strona	[strona]	6.640000000000001	1	68	40	25
+556	331	pijawka	[pijawka]	6.550000000000001	1	67	36	24
+557	332	kuracja	[kuracja]	6.539285714285715	1	67	45	28
+558	333	ciężki przebieg	[ciężki przebieg]	6.5	2	8	3	2
+559	333	szpik kostny	[szpik kostny]	6.5	2	8	3	2
+560	334	posiłek	[posiłek]	6.478260869565218	1	66	28	23
+561	335	guz	[guz]	6.430434782608696	1	66	39	23
+562	336	płyn	[płyn]	6.422222222222223	1	66	48	27
+563	337	aktywność	[aktywność]	6.4	1	66	50	25
+564	338	enzym	[enzym]	6.378125000000001	1	65	39	32
+565	339	chory	[chory]	6.375	1	65	25	20
+566	340	spożycie	[spożycie]	6.353125	1	65	47	32
+567	341	kwas tłuszczowy zawrzeć	[kwas tłuszczowy zawarty]	6.339850002884625	3	5	1	1
+568	341	gęstość mineralny kość	[gęstość mineralna kości]	6.339850002884625	3	5	2	2
+569	341	korzeń tarczyca bajkalski	[korzeń tarczycy bajkalskiej]	6.339850002884625	3	5	1	1
+570	341	wysoki ciśnienie krew	[wysokie ciśnienie krwi]	6.339850002884625	3	4	0	0
+571	341	pierwszy objaw choroba	[pierwszy objaw choroby]	6.339850002884625	3	4	0	0
+572	341	dobry stan zdrowie	[dobry stan zdrowia]	6.339850002884625	3	4	0	0
+573	341	nasycić kwas tłuszczowy	[nasycony kwas tłuszczowy]	6.339850002884625	3	5	1	1
+574	341	ilość spożywać kaloria	[ilość spożywanych kalorii]	6.339850002884625	3	5	1	1
+575	341	witamina B 6	[witamina B 6]	6.339850002884625	3	5	2	2
+576	341	spadek masa ciało	[spadek masy ciała]	6.339850002884625	3	5	1	1
+577	341	sprząc kwas linolowy	[sprzęgnięty kwas linolowy]	6.339850002884625	3	4	0	0
+578	341	długotrwały stosować antybiotyk	[długotrwałe stosowanie antybiotyków]	6.339850002884625	3	4	0	0
+579	341	przewód pokarmowy człowiek	[przewód pokarmowy człowieka]	6.339850002884625	3	4	0	0
+580	341	kalendarz szczepienie obowiązkowy	[kalendarz szczepień obowiązkowych]	6.339850002884625	3	4	0	0
+581	341	osłabić układ odpornościowy	[osłabienie układu odpornościowego]	6.339850002884625	3	4	0	0
+582	341	nieprawidłowy ułożyć dziecko	[nieprawidłowe ułożenie dziecka]	6.339850002884625	3	4	0	0
+583	341	ryzyko wystąpić wada	[ryzyko wystąpienia wady]	6.339850002884625	3	5	1	1
+584	341	witamina K 2	[witamina K 2]	6.339850002884625	3	5	2	2
+585	341	nieinwazyjny badanie prenatalny	[nieinwazyjne badanie prenatalne]	6.339850002884625	3	4	0	0
+586	341	główny przyczyna zgon	[główna przyczyna zgonów]	6.339850002884625	3	4	0	0
+587	341	zapalenie opona mózgowy	[zapalenie opon mózgowych]	6.339850002884625	3	5	1	1
+588	341	flora bakteryjny jelito	[flora bakteryjna jelit]	6.339850002884625	3	5	3	3
+589	341	długotrwały leczenie przeciwzakrzepowy	[długotrwałe leczenie przeciwzakrzepowe]	6.339850002884625	3	5	1	1
+590	341	witamina b 12	[witamina B 12]	6.339850002884625	3	6	4	2
+591	341	środek masowy przekaz	[środek masowego przekazu]	6.339850002884625	3	4	0	0
+592	341	ciężki reakcja alergiczny	[ciężka reakcja alergiczna]	6.339850002884625	3	5	2	2
+593	341	zalecać dzienny spożycie	[zalecane dzienne spożycie]	6.339850002884625	3	5	4	4
+594	341	program szczepienie ochronny	[program Szczepień Ochronnych]	6.339850002884625	3	4	0	0
+595	341	niski poziom miedź	[niski poziom miedzi]	6.339850002884625	3	4	0	0
+596	342	ryzyko powikłanie	[ryzyko powikłań]	6.333333333333333	2	8	5	3
+597	342	suchy oko	[suche oko]	6.333333333333333	2	8	5	3
+598	343	pożywienie	[pożywienie]	6.247368421052632	1	64	29	19
+599	344	flora	[flora]	6.19	1	64	63	30
+600	345	zwierzę	[zwierzę]	6.066666666666666	1	62	20	15
+601	346	noworodek	[noworodek]	6.057142857142857	1	62	30	21
+602	347	poważny powikłanie	[poważne powikłanie]	6.0	2	7	2	2
+603	347	dwutlenek tytan	[dwutlenek tytanu]	6.0	2	6	0	0
+604	347	ostry zapalenie ucho środkowy	[ostre zapalenie ucha środkowego]	6.0	4	4	1	1
+605	347	witamina B	[witamina B]	6.0	2	7	4	4
+606	347	zmiana skórny	[zmiana skórna]	6.0	2	7	1	1
+607	347	proces metaboliczny	[proces metaboliczny]	6.0	2	7	5	5
+608	347	badanie laboratoryjny	[badanie laboratoryjne]	6.0	2	7	4	4
+609	347	biopsja trofoblast	[biopsja trofoblastu]	6.0	2	6	0	0
+610	347	substancja czynny	[substancja czynna]	6.0	2	7	3	3
+611	347	termin poród	[termin porodu]	6.0	2	6	0	0
+612	347	składnik szczepionka	[składnik szczepionki]	6.0	2	6	0	0
+613	347	kluczowy rola	[kluczowa rola]	6.0	2	6	0	0
+614	347	tkanka miękki	[tkanka miękka]	6.0	2	7	3	3
+615	347	składnik żywieniowy	[składnik żywieniowy]	6.0	2	7	2	2
+616	347	produkt żywnościowy	[produkt żywnościowy]	6.0	2	7	2	2
+617	347	nacinać krocze	[nacinanie krocza]	6.0	2	7	2	2
+618	347	rak żołądek	[rak żołądka]	6.0	2	8	4	2
+619	347	rodzic dziecko	[rodzic dzieci]	6.0	2	6	0	0
+620	347	zakazić krew	[zakażona krew]	6.0	2	7	3	3
+621	347	nadciśnienie tętniczy	[nadciśnienie tętnicze]	6.0	2	7	1	1
+622	347	naturalny sposób	[naturalny sposób]	6.0	2	7	1	1
+623	347	przyjmować lek	[przyjmowanie leku]	6.0	2	7	1	1
+624	347	poważny zagrożenie	[poważne zagrożenie]	6.0	2	6	0	0
+625	347	zdrowy osoba	[zdrowa osoba]	6.0	2	7	2	2
+626	347	przyczyna choroba	[przyczyna choroby]	6.0	2	7	1	1
+627	347	objaw zachłystowy zapalenie płuco	[objaw zachłystowego zapalenia płuc]	6.0	4	3	0	0
+628	347	wszystek komórka	[wszystka komórka]	6.0	2	7	1	1
+629	347	grupa ryzyko powikłanie grypa	[grupa ryzyka powikłań grypy]	6.0	4	3	0	0
+630	347	świeży powietrze	[świeże powietrze]	6.0	2	6	0	0
+631	347	ważny czynnik	[ważny czynnik]	6.0	2	7	1	1
+632	347	tłuszcz zwierzęcy	[tłuszcz zwierzęcy]	6.0	2	7	1	1
+633	347	preparat farmaceutyczny	[preparat farmaceutyczny]	6.0	2	7	3	3
+634	347	leczenie objawowy	[leczenie objawowe]	6.0	2	7	3	3
+635	347	zmiana chorobowy	[zmiana chorobowa]	6.0	2	7	5	5
+636	347	krótki czas	[krótki czas]	6.0	2	7	1	1
+637	347	duży stopień	[duży stopień]	6.0	2	6	0	0
+638	347	stężenie cukier	[stężenie cukru]	6.0	2	7	4	4
+639	347	krótki wędzidełko	[krótkie wędzidełko]	6.0	2	7	2	2
+640	347	substancja zawrzeć	[substancja zawarta]	6.0	2	6	0	0
+641	347	niski poziom witamina D	[niski poziom witaminy D]	6.0	4	3	0	0
+642	347	wada ośrodkowy układ nerwowy	[wada ośrodkowego układu nerwowego]	6.0	4	3	0	0
+643	347	osoba otyły	[osoba otyła]	6.0	2	6	0	0
+644	347	tabletka antykoncepcyjny	[tabletka antykoncepcyjna]	6.0	2	7	5	5
+645	347	pierwszy objaw zawał serce	[pierwszy objaw zawału serca]	6.0	4	3	0	0
+646	347	zdrowie dziecko	[zdrowie dziecka]	6.0	2	7	1	1
+647	347	narząd wewnętrzny	[narząd wewnętrzny]	6.0	2	7	4	4
+648	347	zaszczepić dziecko	[zaszczepione dziecko]	6.0	2	7	2	2
+649	347	niedotlenienie płód	[niedotlenienie płodu]	6.0	2	7	1	1
+650	347	niewydolność serce	[niewydolność serca]	6.0	2	6	0	0
+651	347	mały dawka	[mała dawka]	6.0	2	7	1	1
+652	347	niedobór cynk	[niedobór cynku]	6.0	2	6	0	0
+653	347	zdrowie człowiek	[zdrowie człowieka]	6.0	2	7	1	1
+654	347	strona internetowy	[strona internetowa]	6.0	2	7	2	2
+655	347	grzybica pochwa	[grzybica pochwy]	6.0	2	6	0	0
+656	347	upływ czas	[upływ czasu]	6.0	2	6	0	0
+657	347	wysoki dawka	[wysoka dawka]	6.0	2	13	7	1
+658	347	duży prawdopodobieństwo	[duże prawdopodobieństwo]	6.0	2	7	2	2
+659	347	zalecenie lekarz	[zalecenie lekarza]	6.0	2	7	2	2
+660	347	rodzaj rak	[rodzaj raka]	6.0	2	7	3	3
+661	347	temperatura ciało	[temperatura ciała]	6.0	2	7	3	3
+662	347	ryzyko śmierć	[ryzyko śmierci]	6.0	2	7	1	1
+663	347	podstawowy składnik	[podstawowy składnik]	6.0	2	7	4	4
+664	347	powikłanie poszczepienny	[powikłanie poszczepienne]	6.0	2	7	3	3
+665	347	główka dziecko	[główka dziecka]	6.0	2	6	0	0
+666	347	reakcja chemiczny	[reakcja chemiczna]	6.0	2	7	1	1
+667	347	marskość wątroba	[marskość wątroby]	6.0	2	6	0	0
+668	347	woda prysznicowy	[woda prysznicowa]	6.0	2	7	4	4
+669	347	przewlekły choroba układ oddechowy	[przewlekła choroba układu oddechowego]	6.0	4	3	0	0
+670	347	ciężki zapalenie opona mózgowy-rdzeniowy	[ciężkie zapalenie opon mózgowo-rdzeniowych]	6.0	4	3	0	0
+671	347	% dziecko	[% dzieci]	6.0	2	6	0	0
+672	347	wysoki jakość	[wysoka jakość]	6.0	2	7	4	4
+673	347	niewłaściwy dieta	[niewłaściwa dieta]	6.0	2	7	1	1
+674	347	promień słoneczny	[promień słoneczny]	6.0	2	6	0	0
+675	348	mężczyzna	[mężczyzna]	5.957142857142857	1	61	10	7
+676	349	struktura	[struktura]	5.946428571428572	1	61	43	28
+677	350	środowisko	[środowisko]	5.929166666666667	1	61	41	24
+678	351	USA	[USA]	5.866666666666667	1	60	8	6
+679	351	ręka	[ręka]	5.866666666666667	1	60	28	21
+680	352	tętnica	[tętnica]	5.828	1	60	43	25
+681	353	HDL	[HDL]	5.800000000000001	1	60	2	1
+682	354	toksyna	[toksyna]	5.7875000000000005	1	59	27	24
+683	355	zachorować	[zachorowanie]	5.775	1	60	27	12
+684	356	mięso	[mięso]	5.758823529411765	1	59	24	17
+685	357	pęcherz płodowy	[pęcherz płodowy]	5.75	2	7	5	4
+686	358	przeciwciało	[przeciwciało]	5.734782608695653	1	59	38	23
+687	359	przebieg	[przebieg]	5.726923076923077	1	59	45	26
+688	360	mleko	[mleko]	5.7125	1	59	30	16
+689	361	gałka oczny	[gałka oczna]	5.666666666666667	2	7	4	3
+690	361	prawidłowy funkcjonować	[prawidłowe funkcjonowanie]	5.666666666666667	2	7	4	3
+691	361	zmiana nowotworowy	[zmiana nowotworowa]	5.666666666666667	2	7	4	3
+692	362	znaczenie	[znaczenie]	5.664285714285715	1	59	33	14
+693	363	ochrona	[ochrona]	5.644	1	58	39	25
+694	364	mit	[mit]	5.633333333333334	1	58	10	6
+695	365	miejscowy wytworzyć ograniczony ilość toksyczny kwas pruski	[miejscowe wytworzenie ograniczonej ilości toksycznego kwasu pruskiego]	5.614709844115208	7	2	0	0
+696	365	kierownik klinika intensywny terapia kardiologiczny instytut kardiologia	[kierownik Kliniki Intensywnej Terapii Kardiologicznej Instytutu Kardiologii]	5.614709844115208	7	2	0	0
+697	366	roślina	[roślina]	5.605263157894737	1	58	37	19
+698	367	zmniejszyć ryzyko	[zmniejszenie ryzyka]	5.6	2	7	7	5
+699	368	nerka	[nerka]	5.558333333333334	1	58	29	12
+700	369	utrata	[utrata]	5.525806451612904	1	57	54	31
+701	370	szansa	[szansa]	5.525	1	57	28	16
+702	371	kwas pruski	[kwas pruski]	5.5	2	7	3	2
+703	371	kwas mlekowy	[kwas mlekowy]	5.5	2	9	7	2
+704	371	opryszczka genitalny	[opryszczka genitalna]	5.5	2	7	3	2
+705	371	podwyższyć temperatura	[podwyższenie temperatury]	5.5	2	8	5	2
+706	371	woda wodociągowy	[woda wodociągowa]	5.5	2	7	3	2
+707	372	specjalista	[specjalista]	5.478571428571429	1	56	17	14
+708	373	LDL	[LDL]	5.4	1	55	1	1
+709	373	zachorowanie	[zachorowań]	5.4	1	56	38	19
+710	374	orzech	[orzech]	5.362500000000001	1	55	22	16
+711	375	chemioterapia	[chemioterapia]	5.361538461538462	1	55	18	13
+712	376	pomoc	[pomoc]	5.360869565217392	1	55	32	23
+713	377	amniopunkcja	[amniopunkcja]	5.36	1	55	7	5
+714	378	oko	[oko]	5.331818181818182	1	55	37	22
+715	379	badać	[badanie]	5.320833333333334	1	55	43	24
+716	380	błona	[błona]	5.2823529411764705	1	56	54	17
+717	381	przezierność kark	[przezierność karku]	5.25	2	7	7	4
+718	381	trymestr ciąża	[trymestr ciąży]	5.25	2	7	7	4
+719	382	temperatura	[temperatura]	5.23125	1	55	43	16
+720	383	głowa	[głowa]	5.2	1	60	48	6
+721	384	możliwość	[możliwość]	5.189473684210526	1	53	42	38
+722	385	różyczka	[różyczka]	5.188888888888889	1	53	10	9
+723	386	konsekwencja	[konsekwencja]	5.170833333333334	1	53	31	24
+724	387	początek	[początek]	5.170000000000001	1	53	26	20
+725	388	ocet	[ocet]	5.115384615384616	1	54	37	13
+726	389	firma	[firma]	5.110526315789475	1	53	36	19
+727	390	sprawa	[sprawa]	5.1000000000000005	1	52	17	17
+728	390	kto	[kto]	5.1000000000000005	1	51	0	0
+729	391	zmniejszyć	[zmniejszenie]	5.061764705882354	1	52	47	34
+730	392	wysypka	[wysypka]	5.044444444444444	1	52	14	9
+731	393	sok	[sok]	5.03	1	52	34	20
+732	394	przedwczesny poród	[przedwczesny poród]	5.0	2	5	0	0
+733	394	skuteczny lek	[skuteczny lek]	5.0	2	5	0	0
+734	394	milion dolar	[milion dolarów]	5.0	2	5	0	0
+735	394	męski hormon	[męski hormon]	5.0	2	6	5	5
+736	394	naczynie tętniczy	[naczynie tętnicze]	5.0	2	6	5	5
+737	394	spadek odporność	[spadek ODPORNOŚCI]	5.0	2	6	1	1
+738	394	łono matka	[łono matki]	5.0	2	5	0	0
+739	394	krew matka	[krew matki]	5.0	2	5	0	0
+740	394	wada wrodzony	[wada wrodzona]	5.0	2	6	4	4
+741	394	K 1	[K 1]	5.0	2	5	0	0
+742	394	czysty woda	[czysta woda]	5.0	2	5	0	0
+743	394	brak związek	[brak związku]	5.0	2	5	0	0
+744	394	prawdziwy przyczyna	[prawdziwa przyczyna]	5.0	2	6	3	3
+745	394	kalendarz szczepienie	[kalendarz szczepień]	5.0	2	6	3	3
+746	394	przewlekły zmęczenie	[przewlekłe zmęczenie]	5.0	2	8	6	2
+747	394	autor książka	[autor książki]	5.0	2	5	0	0
+748	394	układ trawienny	[układ trawienny]	5.0	2	6	1	1
+749	394	część ciało	[część ciała]	5.0	2	6	2	2
+750	394	obowiązkowy szczepienie	[obowiązkowe szczepienie]	5.0	2	6	2	2
+751	394	poród naturalny	[poród naturalny]	5.0	2	5	0	0
+752	394	wiek matka	[wiek matki]	5.0	2	5	0	0
+753	394	ciężki choroba	[ciężka choroba]	5.0	2	6	1	1
+754	394	obrzęk naczynioruchowy	[obrzęk naczynioruchowy]	5.0	2	5	0	0
+755	394	działanie uboczny	[działanie uboczne]	5.0	2	6	3	3
+756	394	wszystek dziecko	[wszystkie dziecko]	5.0	2	5	0	0
+757	394	większość człowiek	[większość ludzi]	5.0	2	5	0	0
+758	394	przysadka mózgowy	[przysadka mózgowa]	5.0	2	7	2	1
+759	394	przepływ krew	[przepływ krwi]	5.0	2	6	3	3
+760	394	przeszczep kał	[przeszczep kału]	5.0	2	5	0	0
+761	394	duży stężenie	[duże stężenie]	5.0	2	6	1	1
+762	394	obniżyć poziom	[obniżenie poziomu]	5.0	2	6	5	5
+763	394	poziom witamina	[poziom witaminy]	5.0	2	6	2	2
+764	394	nadmiar insulina	[nadmiar insuliny]	5.0	2	6	1	1
+765	394	stosować lek	[stosowanie leku]	5.0	2	6	1	1
+766	394	stosunek płciowy	[stosunek płciowy]	5.0	2	5	0	0
+767	394	środek przeciwbólowy	[środek przeciwbólowy]	5.0	2	6	2	2
+768	394	dobry pomysł	[dobry pomysł]	5.0	2	5	0	0
+769	394	poważny problem	[poważny problem]	5.0	2	5	0	0
+770	394	działanie insulina	[działanie insuliny]	5.0	2	5	0	0
+771	394	skuteczność szczepienie	[skuteczność szczepienia]	5.0	2	6	2	2
+772	394	odpowiedni lek	[odpowiedni lek]	5.0	2	5	0	0
+773	394	obniżyć odporność	[obniżona odporność]	5.0	2	6	2	2
+774	394	University of	[University of]	5.0	2	6	3	3
+775	394	doświadczony lekarz	[doświadczony lekarz]	5.0	2	6	1	1
+776	394	poziom testosteron	[poziom testosteronu]	5.0	2	6	1	1
+777	394	wada serce	[wada serca]	5.0	2	6	1	1
+778	394	wywołać poród	[wywołanie porodu]	5.0	2	5	0	0
+779	394	pierwiastek śladowy	[pierwiastek śladowy]	5.0	2	6	1	1
+780	394	osłabić odporność	[osłabiona odporność]	5.0	2	6	1	1
+781	394	B 17	[B 17]	5.0	2	5	0	0
+782	394	nocny poty	[nocne poty]	5.0	2	5	0	0
+783	394	niewielki dawka	[niewielka dawka]	5.0	2	6	5	5
+784	394	sznur pępowinowy	[sznur pępowinowy]	5.0	2	6	1	1
+785	394	objaw chorobowy	[objaw chorobowy]	5.0	2	6	4	4
+786	394	badanie diagnostyczny	[badanie diagnostyczne]	5.0	2	5	0	0
+787	394	środek chemiczny	[środek chemiczny]	5.0	2	6	1	1
+788	394	otyłość brzuszny	[otyłość brzuszna]	5.0	2	5	0	0
+789	394	podać szczepionka	[podanie szczepionki]	5.0	2	7	2	1
+790	394	zapalenie spojówka	[zapalenie spojówek]	5.0	2	5	0	0
+791	394	praca hormon	[praca hormonów]	5.0	2	5	0	0
+792	394	wysoki indeks	[wyższy indeks]	5.0	2	5	0	0
+793	394	ogromny znaczenie	[ogromne znaczenie]	5.0	2	5	0	0
+794	394	dawka witamina	[dawka witaminy]	5.0	2	5	0	0
+795	394	tysiąc osoba	[tysiąc osób]	5.0	2	5	0	0
+796	394	duży problem	[duży problem]	5.0	2	5	0	0
+797	394	uczucie sytość	[uczucie sytości]	5.0	2	5	0	0
+798	394	młody kobieta	[młoda kobieta]	5.0	2	6	1	1
+799	394	suchy kaszel	[suchy kaszel]	5.0	2	5	0	0
+800	394	% kaloria	[% kalorii]	5.0	2	5	0	0
+801	394	komórka organizm	[komórka organizmu]	5.0	2	6	1	1
+802	394	ryba morski	[ryba morska]	5.0	2	6	2	2
+803	394	większość lekarz	[większość lekarzy]	5.0	2	5	0	0
+804	394	komórka zdrowy	[komórka zdrowa]	5.0	2	5	0	0
+805	394	światło słoneczny	[światło słoneczne]	5.0	2	5	0	0
+806	394	popularny mit	[najpopularniejszy mit]	5.0	2	5	0	0
+807	394	drobnoustrój chorobotwórczy	[drobnoustrój chorobotwórczy]	5.0	2	6	3	3
+808	394	powikłanie okołoporodowy	[powikłanie okołoporodowe]	5.0	2	5	0	0
+809	394	rozwój rak	[rozwój raka]	5.0	2	6	3	3
+810	394	działanie profilaktyczny	[działanie profilaktyczne]	5.0	2	6	2	2
+811	394	jeden strona	[jedna strona]	5.0	2	5	0	0
+812	394	test podwójny	[test podwójny]	5.0	2	5	0	0
+813	394	produkcja szczepionka	[produkcja szczepionki]	5.0	2	5	0	0
+814	394	dolegliwość bólowy	[dolegliwość bólowa]	5.0	2	5	0	0
+815	394	organizm dziecko	[organizm dziecka]	5.0	2	5	0	0
+816	394	skuteczność szczepionka	[skuteczność szczepionki]	5.0	2	6	1	1
+817	394	układ krwionośny	[układ krwionośny]	5.0	2	6	2	2
+818	394	sprząc kwas	[sprzęgnięty kwas]	5.0	2	6	2	2
+819	394	dobry samopoczucie	[lepsze samopoczucie]	5.0	2	6	1	1
+820	394	groźny powikłanie	[groźne powikłanie]	5.0	2	6	3	3
+821	394	pacjent chory	[pacjent chory]	5.0	2	6	2	2
+822	394	of Public	[of Public]	5.0	2	5	0	0
+823	394	standardowy leczenie	[standardowe leczenie]	5.0	2	6	1	1
+824	394	podać lek	[podanie leków]	5.0	2	5	0	0
+825	394	roślina psiankowaty	[roślina psiankowata]	5.0	2	5	0	0
+826	394	komórka odpornościowy	[komórka odpornościowa]	5.0	2	6	2	2
+827	394	organizm pacjent	[organizm pacjenta]	5.0	2	5	0	0
+828	394	sezon zachorowanie	[sezon zachorowań]	5.0	2	5	0	0
+829	394	poziom hormon	[poziom hormonów]	5.0	2	5	0	0
+830	394	wycieńczenie porodowy	[wycieńczenie porodowe]	5.0	2	5	0	0
+831	394	dorosły człowiek	[dorosły człowiek]	5.0	2	5	0	0
+832	394	ból gardło	[ból gardła]	5.0	2	5	0	0
+833	394	osoba dorosły	[osoba dorosła]	5.0	2	6	1	1
+834	394	skurcz macica	[skurcz macicy]	5.0	2	5	0	0
+835	394	cząsteczka woda	[cząsteczka wody]	5.0	2	5	0	0
+836	394	mleko krowi	[mleko krowie]	5.0	2	6	3	3
+837	394	instytut żywność	[instytut Żywności]	5.0	2	6	2	2
+838	394	przemysł farmaceutyczny	[przemysł farmaceutyczny]	5.0	2	6	1	1
+839	394	niekorzystny wpływ	[niekorzystny wpływ]	5.0	2	6	1	1
+840	394	kraj rozwinięty	[kraj rozwinięty]	5.0	2	5	0	0
+841	394	ładunek elektryczny	[ładunek elektryczny]	5.0	2	6	1	1
+842	394	reakcja anafilaktyczny	[reakcja anafilaktyczna]	5.0	2	5	0	0
+843	394	zaburzenie trawić	[zaburzenie trawienia]	5.0	2	6	2	2
+844	394	odpowiedni sposób	[odpowiedni sposób]	5.0	2	6	3	3
+845	394	proces trawić	[proces trawienia]	5.0	2	6	3	3
+846	394	pigułka antykoncepcyjny	[pigułka antykoncepcyjna]	5.0	2	6	1	1
+847	394	warunki szpitalny	[warunki szpitalne]	5.0	2	5	0	0
+848	395	żołądek	[żołądek]	4.983333333333334	1	52	39	18
+849	396	spożywać	[spożywanie]	4.95925925925926	1	51	38	27
+850	397	równowaga	[równowaga]	4.95	1	51	39	26
+851	398	przewód	[przewód]	4.945454545454545	1	54	50	11
+852	399	pochwa	[pochwa]	4.91	1	51	38	20
+853	400	biegunka	[biegunka]	4.9	1	50	6	6
+854	401	zdolność	[zdolność]	4.8875	1	50	36	32
+855	402	dom	[dom]	4.875	1	50	10	8
+856	403	korzyść	[korzyść]	4.871428571428572	1	50	18	14
+857	404	udział	[udział]	4.86923076923077	1	50	17	13
+858	405	suplement	[suplement]	4.866666666666667	1	50	28	21
+859	406	patogenny bakteria	[patogenna bakteria]	4.8	2	6	6	5
+860	406	kierownik klinika	[kierownik Kliniki]	4.8	2	6	6	5
+861	407	jedzenie	[jedzenie]	4.7875000000000005	1	49	18	16
+862	407	wskazanie	[wskazanie]	4.7875000000000005	1	49	18	16
+863	408	dorosły	[dorosły]	4.766666666666667	1	49	4	3
+864	409	poprawa	[poprawa]	4.7592592592592595	1	49	38	27
+865	410	ilość spożywać węglowodan	[ilość spożywanych węglowodanów]	4.754887502163469	3	3	0	0
+866	410	odpowiedni poziom witamina	[odpowiedni poziom witaminy]	4.754887502163469	3	3	0	0
+867	410	niewielki ryzyko poronienie	[niewielkie ryzyko poronienia]	4.754887502163469	3	3	0	0
+868	410	20 tydzień ciąża	[20 tydzień ciąży]	4.754887502163469	3	3	0	0
+869	410	intensywny wysiłek fizyczny	[intensywniejszy wysiłek fizyczny]	4.754887502163469	3	3	0	0
+870	410	zmielić siemię lniany	[zmielone siemię lniane]	4.754887502163469	3	5	2	1
+871	410	ściana naczynie krwionośny	[ściana naczyń krwionośnych]	4.754887502163469	3	3	0	0
+872	410	system odpornościowy organizm	[system odpornościowy organizmu]	4.754887502163469	3	3	0	0
+873	410	wartość cholesterol całkowity	[wartość cholesterolu całkowitego]	4.754887502163469	3	3	0	0
+874	410	rak trzon macica	[rak trzonu macicy]	4.754887502163469	3	3	0	0
+875	410	badanie prenatalny inwazyjny	[badanie prenatalne inwazyjne]	4.754887502163469	3	3	0	0
+876	410	prawidłowy funkcjonowanie organizm	[prawidłowe funkcjonowanie organizmu]	4.754887502163469	3	4	1	1
+877	410	medyczny czynność ratunkowy	[medyczna czynność ratunkowa]	4.754887502163469	3	4	1	1
+878	410	noworodek fachowy pomoc	[noworodek fachowej pomocy]	4.754887502163469	3	3	0	0
+879	410	dożylny podaż witamina	[dożylna podaż witaminy]	4.754887502163469	3	3	0	0
+880	410	stan zdrowie dziecko	[stan zdrowia dziecka]	4.754887502163469	3	3	0	0
+881	410	pierwszy doba życie	[pierwsza doba życia]	4.754887502163469	3	3	0	0
+882	410	% przyszły mama	[% przyszłych mam]	4.754887502163469	3	3	0	0
+883	410	podać pierwszy dawka	[podanie pierwszej dawki]	4.754887502163469	3	3	0	0
+884	410	warszawski uniwersytet medyczny	[warszawski uniwersytet medyczny]	4.754887502163469	3	4	1	1
+885	410	obniżyć ciśnienie krew	[obniżenie ciśnienia krwi]	4.754887502163469	3	3	0	0
+886	410	praca system odpornościowy	[praca systemu odpornościowego]	4.754887502163469	3	4	3	3
+887	410	szeroki spektrum działać	[szerokie spektrum działania]	4.754887502163469	3	3	0	0
+888	410	kleszczowy zapalenie mózg	[kleszczowe zapalenie mózgu]	4.754887502163469	3	3	0	0
+889	410	duży ryzyko zakażenie	[większe ryzyko zakażenia]	4.754887502163469	3	3	0	0
+890	410	spisek firma farmaceutyczny	[spisek firm farmaceutycznych]	4.754887502163469	3	3	0	0
+891	410	wczesny interwencja chirurgiczny	[wczesna interwencja chirurgiczna]	4.754887502163469	3	3	0	0
+892	410	groźny choroba zakaźny	[groźna choroba zakaźna]	4.754887502163469	3	3	0	0
+893	410	centralny układ nerwowy	[centralny układ nerwowy]	4.754887502163469	3	4	2	2
+894	410	ryzyko choroba serce	[ryzyko chorób serca]	4.754887502163469	3	3	0	0
+895	410	dno jama ustny	[dno jamy ustnej]	4.754887502163469	3	3	0	0
+896	410	duży ilość produkt	[większa ilość produktów]	4.754887502163469	3	3	0	0
+897	410	narodowy instytut Rak	[narodowy instytut Raka]	4.754887502163469	3	3	0	0
+898	410	górny część brzuch	[górna część brzucha]	4.754887502163469	3	3	0	0
+899	410	zwiększyć ryzyko śmierć	[zwiększone ryzyko śmierci]	4.754887502163469	3	3	0	0
+900	410	witamina B 12	[witamina B 12]	4.754887502163469	3	4	3	3
+901	410	wirus opryszczka pospolity	[wirus opryszczki pospolitej]	4.754887502163469	3	3	0	0
