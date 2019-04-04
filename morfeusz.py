@@ -1,6 +1,6 @@
 # encoding=UTF-8
 
-# Copyright © 2007-2015 Jakub Wilk <jwilk@jwilk.net>
+# Copyright © 2007-2017 Jakub Wilk <jwilk@jwilk.net>
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the “Software”), to deal
@@ -21,7 +21,8 @@
 # SOFTWARE.
 
 '''
-Bindings for Morfeusz_, a Polish morphological analyser.
+Python interface to Morfeusz_,
+a Polish morphological analyser.
 
 .. _Morfeusz:
    http://sgjp.pl/morfeusz/
@@ -47,7 +48,7 @@ if py3k:
     unicode = str
 
 __author__ = 'Jakub Wilk <jwilk@jwilk.net>'
-__version__ = '0.3300'
+__version__ = '0.3400'
 __all__ = ['analyse', 'about', 'expand_tags', 'ATTRIBUTES', 'VALUES']
 
 ATTRIBUTES = '''
@@ -119,8 +120,10 @@ VALUES = dict(
 
 if os.name == 'nt':
     libmorfeusz = ctypes.CDLL('morfeusz.dll')
+elif sys.platform == 'darwin':
+    libmorfeusz = ctypes.CDLL('libmorfeusz.dylib')
 else:
-    libmorfeusz = ctypes.CDLL(os.path.join(os.path.dirname(__file__), 'libmorfeusz2.dylib'))
+    libmorfeusz = ctypes.CDLL('libmorfeusz.so.0')
 
 MORFOPT_ENCODING = 1
 MORFEUSZ_UTF_8 = 8
